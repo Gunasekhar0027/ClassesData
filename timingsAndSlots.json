@@ -1,7 +1,22 @@
 {
-"Monday":[{},{}],
-"Tuesday":[{},{}],
-"Wedneday":[{}{}],
-"Thursday":[{}{}],
-"Friday":[{}{}]
+  "Monday": [
+    {},
+    {}
+  ],
+  "Tuesday": [
+    {},
+    {}
+  ],
+  "Wedneday": [
+    {},
+    {}
+  ],
+  "Thursday": [
+    {},
+    {}
+  ],
+  "Friday": [
+    {},
+    {}
+  ]
 }
